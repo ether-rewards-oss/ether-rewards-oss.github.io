@@ -1,1 +1,1 @@
-# ether-rewards-oss.github.io
+# tether-claim.github.io
